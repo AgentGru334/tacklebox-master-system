@@ -12,7 +12,7 @@ when the shared workbook changes.
 ## Install
 
 1. Open the latest release using the link above.
-2. Download `Tacklebox Master System Setup v1.0.0.exe`.
+2. Download `Tacklebox.Master.System.Setup.v1.0.0.exe`.
 3. Double-click the installer and follow the short setup.
 4. Leave **Launch Tacklebox Master System** checked and select **Finish**.
 
