@@ -9,6 +9,29 @@ into a searchable local research library. Decode and compare builds, document
 testing, extract card stats with local OCR, and safely update the parts reference
 when the shared workbook changes.
 
+## Screenshots
+
+### Build Notebook
+
+Decode item parts, search saved builds, and keep research organized in one place.
+
+![Tacklebox Master System Build Notebook showing a decoded Borderlands 4 item build](screenshots/build-notebook.png)
+
+### Item Card Library
+
+Browse item-card screenshots alongside reviewed OCR stats and linked builds.
+
+![Tacklebox Master System Library showing item cards and confirmed OCR data](screenshots/library.png)
+
+<details>
+<summary><strong>Raw Code Inbox</strong></summary>
+
+Paste one or more save-editor item codes and process them into the Build Notebook.
+
+![Tacklebox Master System Raw Code Inbox](screenshots/raw-code-inbox.png)
+
+</details>
+
 ## Install
 
 1. Open the latest release using the link above.
